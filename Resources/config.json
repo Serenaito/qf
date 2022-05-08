@@ -1,0 +1,12 @@
+{
+	"systemtray":	"Qf.PNG",
+	"module":	[{
+			"name":	"Hiyori",
+			"window_x":	-1,
+			"window_y":	-1
+		}],
+	"userdata":	{
+		"current_model":"Hiyori",
+		"top": true,
+	}
+}
