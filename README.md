@@ -63,11 +63,11 @@ QT + live2d
 	}
 ```
 
+#### 相关文档
+https://zhuanlan.zhihu.com/p/511077879
 
 #### 效果演示视频
 https://www.bilibili.com/video/BV13q4y1m7ax/
-
-
 
 #### 模型来源说明
 1. Hiyori模型来源于live2d官方网站(https://www.live2d.com/)
