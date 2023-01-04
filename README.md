@@ -14,7 +14,8 @@ QT + live2d
 3.  点击quiet.exe
 
 #### 添加模型
-只支持V3的live2d模型
+~~只支持V3的live2d模型~~
+引用库已更新
 1. 将下载好的模型的文件夹放入Resources路径
 2. 修改config.json文件，例如新添加模型的文件夹名为ModelA
 3. 原始的config.json内容为
