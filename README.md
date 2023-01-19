@@ -64,8 +64,6 @@ QT + live2d
 	}
 ```
 
-#### 相关文档
-https://zhuanlan.zhihu.com/p/511077879
 
 #### 效果演示视频
 https://www.bilibili.com/video/BV13q4y1m7ax/
